@@ -1,4 +1,6 @@
 
+[![Build Status](https://jsmwalter.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/SimJWalter.mslearn-tailspin-spacegame-web?branchName=main)](https://jsmwalter.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=5&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
